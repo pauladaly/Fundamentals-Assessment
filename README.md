@@ -13,3 +13,7 @@ This repository contains the Jupyter notebook Fundamentals-Assessment.ipynb, in 
  References:
  - https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
  - https://wellsr.com/python/seaborn-plots-for-python-data-visualization/
+ - https://towardsdatascience.com/linear-regression-python-implementation-ae0d95348ac4
+ - https://www.tutorialspoint.com/seaborn/seaborn_linear_relationships.htm
+ - https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-4-9b0119887130
+  
